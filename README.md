@@ -157,9 +157,6 @@ UP 主完成率
 
 欢迎提交 Issue 和 Pull Request 来帮助改进这个项目。
 
-## 许可证
-
-[MIT License](LICENSE)
 
 ## 致谢
 
