@@ -3,7 +3,7 @@ WORKDIR /app
 
 FROM base AS install
 COPY package.json bun.lock .
-RUN bun install --frozen-lockfile
+RUN pnpm install --frozen-lockfile
 
 FROM base AS build
 COPY . .
